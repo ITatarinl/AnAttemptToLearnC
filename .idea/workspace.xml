@@ -10,9 +10,7 @@
     <option name="reloaded" value="true" />
   </component>
   <component name="CMakeRunConfigurationManager">
-    <generated>
-      <config projectName="CLION" targetName="CLION" />
-    </generated>
+    <generated />
   </component>
   <component name="CMakeSettings">
     <configurations>
@@ -20,7 +18,55 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe493f37-c077-46bf-bc91-76794f7b7ed5" name="Changes" comment="" />
+    <list default="true" id="fe493f37-c077-46bf-bc91-76794f7b7ed5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/C00/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C00/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C00/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C00/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C00/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C00/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C00/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C00/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorldProject/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/C00/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorldProject/.idea/CLION.iml" beforeDir="false" afterPath="$PROJECT_DIR$/C00/.idea/CLION.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorldProject/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/C00/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorldProject/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/C00/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorldProject/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C00/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorldProject/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" afterPath="$PROJECT_DIR$/C00/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorldProject/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" afterPath="$PROJECT_DIR$/C00/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorldProject/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" afterPath="$PROJECT_DIR$/C00/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorldProject/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" afterPath="$PROJECT_DIR$/C00/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorldProject/cmake-build-debug/.cmake/api/v1/reply/cache-v2-1f71edbd66c3fc563931.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorldProject/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-0fe884eca28495d6c66c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorldProject/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-b223f37b71015979c69c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorldProject/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" afterPath="$PROJECT_DIR$/C00/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorldProject/cmake-build-debug/.cmake/api/v1/reply/index-2023-03-17T07-02-04-0753.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorldProject/cmake-build-debug/.cmake/api/v1/reply/target-CLION-Debug-4263dba143d56e2c1d81.json" beforeDir="false" afterPath="$PROJECT_DIR$/C00/cmake-build-debug/.cmake/api/v1/reply/target-CLION-Debug-4263dba143d56e2c1d81.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorldProject/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-d11634dbd76c30ececfb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorldProject/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorldProject/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorldProject/cmake-build-debug/CLION.exe" beforeDir="false" afterPath="$PROJECT_DIR$/C00/cmake-build-debug/CLION.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorldProject/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C00/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorldProject/cmake-build-debug/CMakeFiles/3.24.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorldProject/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorldProject/cmake-build-debug/CMakeFiles/3.24.2/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorldProject/cmake-build-debug/CMakeFiles/3.24.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorldProject/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorldProject/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorldProject/cmake-build-debug/CMakeFiles/CLION.dir/main.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorldProject/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorldProject/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorldProject/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorldProject/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorldProject/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" afterPath="$PROJECT_DIR$/C00/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorldProject/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/C00/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorldProject/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorldProject/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorldProject/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/C00/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorldProject/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/C00/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +77,9 @@
     <option name="clangWarnings" value="-Wno-unused-variable,-Wno-infinite-recursion,-Wno-array-bounds,-Werror=implicit-function-declaration,-Wshadow,-Wno-shadow-field-in-constructor-modified,-Wno-shadow-ivar,-Wuninitialized,-Wunused-label,-Wunused-lambda-capture,-Wno-string-plus-int,-Wno-int-to-pointer-cast" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -44,26 +93,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ilgam/Desktop/COMPLETED_PISCINE_C&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "C:/Users/Fratello/Desktop/COMPLETED_PISCINE_C/c01",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
-    <configuration name="HelloWorldProject" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLION" TARGET_NAME="CLION" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CLION" RUN_TARGET_NAME="CLION">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLion" TARGET_NAME="main.c" CONFIG_NAME="main.c">
+      <option name="sourceFile" value="C:\CLion\C01\main.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
   </component>
@@ -87,10 +142,19 @@
       <workItem from="1679561959072" duration="227000" />
       <workItem from="1679907407800" duration="1949000" />
       <workItem from="1679994556045" duration="8000" />
+      <workItem from="1680438393316" duration="41000" />
+      <workItem from="1680512050468" duration="249000" />
+      <workItem from="1680512317872" duration="2858000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticEditVcpkgJson value="false" />
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticFoundErrors value="true" />
   </component>
 </project>
